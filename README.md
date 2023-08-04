@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/d9AC9cKuNu165UxNtj/giphy.gif" width="100"/>
+</div>
 <!--
 **WaterAvian/WaterAvian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
